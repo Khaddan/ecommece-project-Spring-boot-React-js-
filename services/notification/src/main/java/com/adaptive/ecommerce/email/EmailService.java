@@ -1,3 +1,4 @@
+/*
 package com.adaptive.ecommerce.email;
 
 import com.adaptive.ecommerce.kafka.order.Product;
@@ -103,3 +104,4 @@ public class EmailService {
 
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.adaptive.ecommerce.email;
 
 import lombok.Getter;
@@ -19,3 +20,4 @@ public enum EmailTemplates {
         this.subject = subject;
     }
 }
+*/

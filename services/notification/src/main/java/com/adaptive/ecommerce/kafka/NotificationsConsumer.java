@@ -1,3 +1,4 @@
+/*
 package com.adaptive.ecommerce.kafka;
 
 
@@ -64,3 +65,4 @@ public class NotificationsConsumer {
         );
     }
 }
+*/

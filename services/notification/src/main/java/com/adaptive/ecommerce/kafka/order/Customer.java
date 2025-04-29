@@ -1,3 +1,4 @@
+/*
 package com.adaptive.ecommerce.kafka.order;
 
 public record Customer(
@@ -8,3 +9,4 @@ public record Customer(
 ) {
 
 }
+*/
