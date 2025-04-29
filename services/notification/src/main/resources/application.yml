@@ -3,3 +3,6 @@ spring:
     import: optional:configserver:http://localhost:8888
   application:
     name: notification-service
+  cloud:
+    compatibility-verifier:
+      enabled: false
