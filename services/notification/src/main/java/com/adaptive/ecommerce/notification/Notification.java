@@ -1,4 +1,3 @@
-/*
 package com.adaptive.ecommerce.notification;
 
 import com.adaptive.ecommerce.kafka.order.OrderConfirmation;
@@ -29,4 +28,3 @@ public class Notification {
     private OrderConfirmation orderConfirmation;
     private PaymentConfirmation paymentConfirmation;
 }
-*/

@@ -1,4 +1,3 @@
-/*
 package com.adaptive.ecommerce.kafka.payment;
 
 
@@ -10,4 +9,3 @@ public enum PaymentMethod {
     MASTER_CARD,
     BITCOIN
 }
-*/

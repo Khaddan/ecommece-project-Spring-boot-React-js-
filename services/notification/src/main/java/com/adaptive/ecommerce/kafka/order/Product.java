@@ -1,4 +1,3 @@
-/*
 package com.adaptive.ecommerce.kafka.order;
 
 import java.math.BigDecimal;
@@ -11,4 +10,3 @@ public record Product(
         double quantity
 ) {
 }
-*/

@@ -1,4 +1,3 @@
-/*
 package com.adaptive.ecommerce.kafka.order;
 
 
@@ -17,4 +16,3 @@ public record OrderConfirmation(
 ) {
 }
 
-*/

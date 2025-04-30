@@ -1,4 +1,3 @@
-/*
 package com.adaptive.ecommerce.kafka.payment;
 
 import java.math.BigDecimal;
@@ -12,4 +11,3 @@ public record PaymentConfirmation(
         String customerEmail
 ) {
 }
-*/
