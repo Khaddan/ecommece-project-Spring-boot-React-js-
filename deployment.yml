@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: config-server
-          image: config-server:latest
+          image: config-server-service:latest
           ports:
             - containerPort: 8888
 ---
